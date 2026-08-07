@@ -3,6 +3,8 @@ Mod menu for among us
 
 new account for this mod menu because i got banned on my main R.I.P
 
+discord https://discord.gg/pmrEcfDeVs
+
 supported
 
 Steam:✅
