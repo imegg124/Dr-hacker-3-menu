@@ -1,2 +1,20 @@
 # Dr-hacker-3-menu
 Mod menu for among us
+
+new account for this mod menu because i got banned on my main R.I.P
+
+supported
+
+Steam:✅
+
+itch io:✅
+
+Microsoft store:❌
+
+iOS:❌
+
+Android:❌
+
+Controls:
+
+Press F3 to open the menu
