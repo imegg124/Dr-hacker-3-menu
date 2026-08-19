@@ -17,6 +17,8 @@ iOS:❌
 
 Android:❌
 
+PlayStation/Xbox/Nintendo Switch:❌
+
 Controls:
 
 Press F3 to open the menu
