@@ -13,7 +13,7 @@ Steam:✅
 
 itch io:✅
 
-Microsoft store:❌
+Microsoft store:✅
 
 iOS:❌
 
