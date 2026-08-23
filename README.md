@@ -13,7 +13,6 @@ biggest thing is this mod menu bigger then deplete hns timer at its time without
 
 
 # Support
-supported
 
 Steam:✅
 
@@ -26,6 +25,8 @@ iOS:❌
 Android:❌
 
 PlayStation/Xbox/Nintendo Switch:❌
+
+# Other
 
 Controls:
 
