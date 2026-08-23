@@ -1,4 +1,4 @@
-# Dr-hacker-3-menu
+# Dr hacker 3 menu
 Mod menu for among us
 <div align="center">
   <img src="https://github.com/imegg124/Dr-hacker-3-menu/blob/main/img/Screenshot%202026-08-19%20233845.png?raw=true" alt="Screenshot 2026-08-19 233845.png"/>
