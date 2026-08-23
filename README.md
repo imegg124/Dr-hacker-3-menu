@@ -11,7 +11,6 @@ discord: https://discord.gg/pmrEcfDeVs
 
 biggest thing is this mod menu bigger then deplete hns timer at its time without dh3m idk what this mod will be the first version with dh3m [2.0.0](https://github.com/imegg124/Dr-hacker-3-menu/releases/tag/2.0.0) was the first version including dh3m anti cheat and somehow its better then au's anti cheat
 
-discord https://discord.gg/pmrEcfDeVs
 
 # Support
 supported
