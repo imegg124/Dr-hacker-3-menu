@@ -5,7 +5,7 @@ Mod menu for among us
 </div>
 new account for this mod menu because i got banned on my main R.I.P
 
-discord: discord https://discord.gg/pmrEcfDeVs
+discord: https://discord.gg/pmrEcfDeVs
 
 # DH3M Anti cheat
 
