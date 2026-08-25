@@ -27,8 +27,8 @@ Android:❌
 PlayStation/Xbox/Nintendo Switch:❌
 
 # To Do
-- [specific sabotage control]
-- [more exploits (such as anti cheat bypass and overload)
+- [ ] [specific sabotage control]
+- [ ] [more exploits (such as anti cheat bypass and overload)
   
 
 # Other
