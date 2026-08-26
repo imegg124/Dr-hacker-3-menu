@@ -27,9 +27,9 @@ Android:❌
 PlayStation/Xbox/Nintendo Switch:❌
 
 # To Do
-- [x] [specific sabotage control]
-- [ ] [more exploits (such as anti cheat bypass and overload)
-- [ ] [more sabotage locations instead of skeld only]
+- [x] specific sabotage control
+- [ ] more exploits (such as anti cheat bypass and overload)
+- [ ] more sabotage locations instead of skeld only
   
 
 # Other
