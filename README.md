@@ -20,6 +20,8 @@ itch io:✅
 
 Microsoft store:✅
 
+Epic Games:✅ (not really sure if it does work because i dont use the epic games store version)
+
 iOS:❌
 
 Android:❌
